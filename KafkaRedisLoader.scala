@@ -57,7 +57,7 @@ object KafkaRedisLoader {
 
     val spark = SparkSession
       .builder()
-      .appName("kafkaSpark78")
+      .appName("kafkarediswriter")
       .master("local")
       .config("spark.redis.host", "localhost")
       .config("spark.redis.port", "6379")
@@ -66,7 +66,7 @@ object KafkaRedisLoader {
 
     import spark.implicits._
     val streamingInputDF = spark.readStream.format("kafka")
-      .option("kafka.bootstrap.servers","nhgrnkafka01.corpdom1.com:9092")
+      .option("kafka server","kafka port")
       .option("subscribe","PackageEvent")
       .option("startingOffsets", "latest")
       .load()
