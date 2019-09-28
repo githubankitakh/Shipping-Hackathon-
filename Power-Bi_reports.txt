@@ -1,0 +1,16 @@
+AutoStore Vs FloorPick Shipment Visibility (OPS Management)
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/1c6e73c5-5f9e-494a-bd5f-b31e2e598c76/ReportSection0c9210d30d33aeaede39
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/1c6e73c5-5f9e-494a-bd5f-b31e2e598c76/ReportSectionc69c031bb2ad903e4287
+Scan_Activity_Details
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/b00ad411-0245-4a95-b939-41ec0c14290f/ReportSectionbd94b6a41ce45632bccd
+Chain of Custody 
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/90d2d863-a2c4-48ae-b24c-14ee6d30f83e/ReportSection91bd93c5e8d7bac27e7b
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/90d2d863-a2c4-48ae-b24c-14ee6d30f83e/ReportSection79b28f070ceb83490e17
+Delivery RFE Event - Monitor
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/15916d68-9948-4be5-8bb2-9ddcda980276/ReportSection883285c557033805e009
+Performance Monitor History Analysis
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/36f8df4a-c4b5-439d-85c9-f031c7bf5647/ReportSection
+Reconciliation Report
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/97d821bd-3461-403b-a837-8068ba545409/ReportSection
+Return Volume Prediction
+https://app.powerbi.com/groups/56fcfdef-8434-4256-ae69-c4c903cdb66e/reports/50011459-43ad-426a-8580-a92eafbd8738/ReportSection5d4f77e00021050001dc
